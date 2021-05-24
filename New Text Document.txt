@@ -1,1 +1,1 @@
-consolewriteline("aksdj ");
+consolewriteline("ak");
